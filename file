@@ -1,6 +1,2 @@
-./src/
-./src/main.rs
-./file
-./target/
-./target/debug/
-./target/debug/local-search
+random, thing,
+abcd
