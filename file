@@ -1,1 +1,6 @@
-repeating text. good text. some text. con text
+./src/
+./src/main.rs
+./file
+./target/
+./target/debug/
+./target/debug/local-search
